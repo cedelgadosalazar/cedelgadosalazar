@@ -11,12 +11,12 @@
 ### 📒💻 Languages and Tools
 
 <p align="center">
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/c/c-original.svg" height="35px" style="vertical-align:top margin:6px 4px" link="https://github.com/cedelgadosalazar" />
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/python/python-original.svg" height="35px" style="vertical-align:top margin:6px 4px" />
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/java/java-original.svg" height="35px" style="vertical-align:top margin:6px 4px" />
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="35px" style="vertical-align:top margin:6px 4px" />
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/visualstudio/visualstudio-plain.svg" height="35px" style="vertical-align:top margin:6px 4px" />
- <img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/javascript/javascript-original.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/c/c-original.svg" height="35px" style="vertical-align:top margin:6px 4px"/></a>
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/python/python-original.svg" height="35px" style="vertical-align:top margin:6px 4px" /></a>
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/java/java-original.svg" height="35px" style="vertical-align:top margin:6px 4px" /></a>
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="35px" style="vertical-align:top margin:6px 4px" /></a>
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/visualstudio/visualstudio-plain.svg" height="35px" style="vertical-align:top margin:6px 4px" /></a>
+ <a href="https://github.com/cedelgadosalazar"><img src="https://github.com/cedelgadosalazar/cedelgadosalazar/blob/main/javascript/javascript-original.svg" height="35px" style="vertical-align:top margin:6px 4px" /></a>
  </p>
 
 ### 📱Contact me:
